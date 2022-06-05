@@ -1,7 +1,7 @@
 # Iris Species Classifier
 
- This is a simple web app that determines the sub-species of the flower Iris using 4 different parameters which denots the dimensions of its petals.
- The dataset used is the very popular Iris dataset ( https://www.kaggle.com/uciml/iris ) and we implement a simple machine learning algorithm to predict the result.
+ This is a simple web app that determines the sub-species of the flower Iris using 4 different parameters which denotes the dimensions of its petals.
+ The dataset used is the very popular Iris dataset ( https://www.kaggle.com/uciml/iris ) and we implement a simple machine learning algorithm to predict the species.
  
  ### This web app was built using `streamlit` and deployed on `Heroku`
  
